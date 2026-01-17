@@ -21,15 +21,19 @@ I love combining creativity 🎨 and technology 💻 to build engaging digital s
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
+  <!-- Profile Details -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasniatamannaweb&theme=default" alt="Tasnia Tamanna's GitHub Stats" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasniatamannaweb&theme=default" alt="Tasnia Tamanna's GitHub Streak" width="600" />
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=tasniatamannaweb&theme=default&hide_border=false" alt="Tasnia Tamanna's GitHub Streak" width="600" />
 </p>
 
 <p align="center">
+  <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tasniatamannaweb&bg_color=ffffff&color=000000&line=21759B&point=FF4081&area=true&hide_border=true" alt="Contribution Graph" width="600" />
 </p>
 
