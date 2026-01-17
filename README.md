@@ -39,8 +39,6 @@ I love combining creativity and technology to build engaging digital solutions.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasniatamannaweb&theme=radical" alt="Tasnia Tamanna's GitHub Streak" width="900" />
 </p>
 
----
-
 ## 📫 Contact Me
 
 <p align="center">
