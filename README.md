@@ -41,29 +41,6 @@ I love combining creativity and technology to build engaging digital solutions.
 
 ---
 
-## 💻 My Responsive HTML/CSS Projects
-
-Here are some of my projects where I transformed **PSD/Figma designs into responsive HTML/CSS websites**:
-
-<p align="center">
-  <!-- TinyOne Project Screenshot -->
-  <a href="https://tasniatamannaweb.github.io/TinyOne/" target="_blank">
-   <img src="https://raw.githubusercontent.com/tasniatamannaweb/TinyOne/ab9bf4a82d52a4de923d99dc6b928902a0e1e604/images/logo.png" alt="TinyOne Logo" width="200" />
-  </a>
-  
-  <!-- Figma to HTML Portfolio Project Screenshot -->
-  <a href="https://tasniatamannaweb.github.io/Portfolio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tasniatamannaweb/figma-to-html-responsive-portfolio-website/main/images/minimo_f.png" alt="Portfolio Screenshot" width="300" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://tasniatamannaweb.github.io/TinyOne/" target="_blank">🔗 Live Demo - TinyOne</a> |
-  <a href="https://tasniatamannaweb.github.io/Portfolio/" target="_blank">🔗 Live Demo - Portfolio</a>
-</p>
-
----
-
 ## 📫 Contact Me
 
 <p align="center">
