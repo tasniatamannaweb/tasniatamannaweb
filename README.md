@@ -3,7 +3,7 @@
 ---
 
 ## 📝 About Me
-I'm a **Data Entry Operator, Graphic Designer, and Social Media Marketing freelancer** from Dhaka, Bangladesh.
+I'm a **Data Entry Operator, Graphic Designer, and Social Media Marketing freelancer** from Dhaka, Bangladesh.  
 I love combining creativity and technology to build engaging digital solutions.
 
 - 🌱 I’m currently improving my Web Development, Graphic Design, and Social Media Marketing skills.
@@ -13,13 +13,13 @@ I love combining creativity and technology to build engaging digital solutions.
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://img.shields.io" alt="HTML5 Badge" />
-  <img src="https://img.shields.io" alt="CSS3 Badge" />
-  <img src="https://img.shields.io" alt="JavaScript Badge" />
-  <img src="https://img.shields.io" alt="React Badge" />
-  <img src="https://img.shields.io" alt="Node.js Badge" />
-  <img src="https://img.shields.io" alt="Python Badge" />
-  <img src="https://img.shields.io" alt="Figma Badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" />
 </p>
 
 ---
@@ -27,16 +27,16 @@ I love combining creativity and technology to build engaging digital solutions.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Profile Details Card (Ensure username is correct) -->
-  <img src="https://github-profile-summary-cards.vercel.app" alt="Tasnia Tamanna's GitHub Stats" width="450" />
+  <!-- Profile Details Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasniatamannaweb&theme=radical" alt="Tasnia Tamanna's GitHub Stats" width="450" />
 
-  <!-- Top Languages Card (Ensure username is correct) -->
-  <img src="https://github-profile-summary-cards.vercel.app" alt="Top Languages" width="450" />
+  <!-- Top Languages Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tasniatamannaweb&theme=radical" alt="Top Languages" width="450" />
 </p>
 
 <p align="center">
-  <!-- Streak Stats Card (Ensure user is correct) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com" alt="Tasnia Tamanna's GitHub Streak" width="900" />
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tasniatamannaweb&theme=radical" alt="Tasnia Tamanna's GitHub Streak" width="900" />
 </p>
 
 ---
@@ -46,19 +46,20 @@ I love combining creativity and technology to build engaging digital solutions.
 Here are some of my projects where I transformed **PSD/Figma designs into responsive HTML/CSS websites**:
 
 <p align="center">
-  <!-- TinyOne Project Screenshot & Link (Ensure links are correct for your project) -->
-  <a href="https://tasniatamannaweb.github.io" target="_blank">
-    <img src="https://raw.githubusercontent.com" alt="TinyOne Project" width="300" />
+  <!-- TinyOne Project Screenshot -->
+  <a href="https://tasniatamannaweb.github.io/TinyOne/" target="_blank">
+   <img src="https://raw.githubusercontent.com/tasniatamannaweb/TinyOne/ab9bf4a82d52a4de923d99dc6b928902a0e1e604/images/logo.png" alt="TinyOne Logo" width="200" />
   </a>
-  <!-- Figma to HTML Portfolio Project Screenshot & Link (Ensure links are correct for your project) -->
-  <a href="https://tasniatamannaweb.github.io" target="_blank">
-    <img src="https://raw.githubusercontent.com" alt="Figma to HTML Portfolio" width="300" />
+  
+  <!-- Figma to HTML Portfolio Project Screenshot -->
+  <a href="https://tasniatamannaweb.github.io/Portfolio/" target="_blank">
+    <img src="https://raw.githubusercontent.com/tasniatamannaweb/figma-to-html-responsive-portfolio-website/main/images/minimo_f.png" alt="Portfolio Screenshot" width="300" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://tasniatamannaweb.github.io" target="_blank">🔗 Live Demo - TinyOne</a> |
-  <a href="https://tasniatamannaweb.github.io" target="_blank">🔗 Live Demo - Portfolio</a>
+  <a href="https://tasniatamannaweb.github.io/TinyOne/" target="_blank">🔗 Live Demo - TinyOne</a> |
+  <a href="https://tasniatamannaweb.github.io/Portfolio/" target="_blank">🔗 Live Demo - Portfolio</a>
 </p>
 
 ---
@@ -66,11 +67,11 @@ Here are some of my projects where I transformed **PSD/Figma designs into respon
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:info.tasniatamanna@gmail.com"><img src="https://img.shields.io" alt="Email Badge" /></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io" alt="LinkedIn Badge" /></a>
-  <a href="https://github.com"><img src="https://img.shields.io" alt="GitHub Badge" /></a>
-  <a href="https://www.instagram.com"><img src="https://img.shields.io" alt="Instagram Badge" /></a>
-  <a href="https://x.com"><img src="https://img.shields.io" alt="X (Twitter) Badge" /></a>
+  <a href="mailto:info.tasniatamanna@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
+  <a href="https://www.linkedin.com/in/tasniatamanna"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="https://github.com/tasniatamannaweb"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /></a>
+  <a href="https://www.instagram.com/tasniatamanna"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /></a>
+  <a href="https://x.com/tasniatamanna"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Badge" /></a>
 </p>
 
 ---
