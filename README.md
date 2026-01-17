@@ -58,9 +58,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tasniatamannaweb&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=tasniatamannaweb&show_icons=true&theme=dark" alt="Tasnia Tamanna's GitHub Stats"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=tasniatamannaweb&theme=dark"/>
+<img src="https://streak-stats.demolab.com?user=tasniatamannaweb&theme=dark" alt="Tasnia Tamanna's GitHub Streak"/>
 </p>
