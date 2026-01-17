@@ -1,6 +1,6 @@
-## 👋 Hi there, I'm Tasnia Tamanna
-
 <div align="center">
+  
+## 👋 Hi there, I'm Tasnia Tamanna
 
 ### 📝 About Me
 I'm a **Data Entry Operator, Graphic Designer, and Social Media Marketing Freelancer** from Dhaka, Bangladesh.  
