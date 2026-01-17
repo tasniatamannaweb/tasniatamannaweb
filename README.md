@@ -29,7 +29,7 @@ I love combining creativity 🎨 and technology 💻 to build engaging digital s
 
 <p align="center">
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=tasniatamannaweb&theme=default&hide_border=false" alt="Tasnia Tamanna's GitHub Streak" width="600" />
+  <img src="https://streak-stats.demolab.com?user=tasniatamannaweb&theme=default&hide_border=false" alt="Tasnia Tamanna's GitHub Streak" width="600" />
 </p>
 
 <p align="center">
@@ -37,7 +37,6 @@ I love combining creativity 🎨 and technology 💻 to build engaging digital s
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tasniatamannaweb&bg_color=ffffff&color=000000&line=21759B&point=FF4081&area=true&hide_border=true" alt="Contribution Graph" width="600" />
 </p>
 
----
 
 ### 📫 Contact Me
 <p>
