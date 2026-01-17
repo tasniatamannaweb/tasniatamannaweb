@@ -58,9 +58,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tasniatamannaweb&show_icons=true&theme=dark" alt="Tasnia Tamanna's GitHub Stats"/>
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tasniatamannaweb&show_icons=true&theme=dark&hide_title=false&count_private=true&include_all_commits=true" alt="Tasnia Tamanna's GitHub Stats" width="450"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasniatamannaweb&layout=compact&theme=dark" alt="Top Languages" width="450"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=tasniatamannaweb&theme=dark" alt="Tasnia Tamanna's GitHub Streak"/>
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=tasniatamannaweb&theme=dark&hide_border=false" alt="Tasnia Tamanna's GitHub Streak" width="900"/>
 </p>
