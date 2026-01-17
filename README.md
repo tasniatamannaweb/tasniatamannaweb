@@ -10,7 +10,8 @@ I love combining creativity 🎨 and technology 💻 to build engaging digital s
 📊 GitHub Stats
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tasniatamannaweb&theme=radical" alt="Tasnia Tamanna's GitHub Stats" width="450" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tasniatamannaweb&theme=radical" alt="Top Languages" width="450" /></p>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tasniatamannaweb&theme=radical" alt="Tasnia Tamanna's GitHub Streak" width="900" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tasniatamannaweb&show_icons=true&theme=radical" alt="GitHub Stats" width="450" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasniatamannaweb&layout=compact&theme=radical" alt="Top Languages" width="450" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=tasniatamannaweb&show_icons=true&theme=radical" alt="GitHub Stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasniatamannaweb&layout=compact&theme=radical" alt="Top Languages" width="450"/> </p>
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=tasniatamannaweb&bg_color=141321&color=ffffff&line=00e0ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" /></p>
 
 📫 Contact Me
